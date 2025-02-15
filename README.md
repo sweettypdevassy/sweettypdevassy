@@ -1,6 +1,7 @@
 
+<img src="image.png" width="1000px" alt="intro" title="intro" />
 
-# 👨‍💻 About Me
+
 I’m a **Backend Developer at IBM** with 1.5 years of experience, an **Open Source Contributor**, a **Passionate Blog Writer**, and a **Tech Speaker** who loves sharing knowledge through sessions and workshops.  
 
 ## 💼 Experience
