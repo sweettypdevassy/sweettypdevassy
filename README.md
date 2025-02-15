@@ -19,7 +19,7 @@ I’m a **Backend Developer at IBM** with 1.5 years of experience, an **Open Sou
 
 ## ✍️ Blog Articles  
 
-- **[Virtual Threads: A Game-Changer for Concurrency](https://dzone.com/articles/virtual-threads-in-java)** 🧵  
+- **[Virtual Threads: A Game-Changer for Concurrency](https://dzone.com/articles/deep-dive-into-java-virtual-threads-a-game-changer)** 🧵  
   *Published on DZone, this blog explores Java Virtual Threads, comparing them to traditional platform threads with example code.*  
 
 - **[Unleashing Creativity: The Rise of Low-Code and No-Code Platforms](https://medium.com/@sweettypdevassy2001/unleashing-creativity-the-rise-of-low-code-and-no-code-platforms-8c09bd10261b)** 🎨  
